@@ -56,4 +56,4 @@ This project investigates six key performance comparisons:
 2. Create a new notebook
 3. Set Runtime → Change runtime type → GPU (Hardware accelerator)
 4. Run setup cell to verify GPU/CUDA availability
-5. Execute benchmark snippets sequentially
+5. Execute benchmark snippets sequentially.
